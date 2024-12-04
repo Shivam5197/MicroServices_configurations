@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to Loans Microservice - Validation Console"
+  message: "Welcome to Loans Microservice - VALIDATION Console"
   ContactDetails:
     Developer: "Shivam Sharma"
     email: "sharmaascent6@gmail.com"
